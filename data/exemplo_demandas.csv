@@ -1,0 +1,25 @@
+titulo,descricao,responsavel,setor,prioridade,status,data_criacao,prazo,data_conclusao
+Atualizar planilha de custos,Incluir novos fornecedores na planilha,Marina Souza,Financeiro,Alta,Concluída,2026-06-02,2026-06-15,2026-06-12
+Revisar contrato com fornecedor,Conferir cláusulas de reajuste,Rafael Lima,Comercial,Média,Concluída,2026-06-10,2026-06-30,2026-06-28
+Organizar onboarding de novos colaboradores,Preparar agenda e acessos,Juliana Alves,RH,Média,Concluída,2026-07-01,2026-07-15,2026-07-14
+Migrar backup para a nuvem,Configurar rotina automática de cópias,Carlos Mendes,TI,Alta,Concluída,2026-07-06,2026-07-25,2026-07-30
+Campanha de divulgação do trimestre,Definir peças e calendário de publicações,Patrícia Rocha,Marketing,Baixa,Concluída,2026-07-20,2026-08-10,2026-08-07
+Mapear processos de atendimento,Desenhar o fluxo atual do atendimento,Bruno Ferreira,Operações,Média,Concluída,2026-08-03,2026-08-21,2026-08-20
+Conciliação bancária de agosto,Conferir extratos e lançamentos,Marina Souza,Financeiro,Alta,Concluída,2026-09-01,2026-09-10,2026-09-09
+Treinamento de segurança da informação,Realizar sessão com todas as equipes,Carlos Mendes,TI,Média,Concluída,2026-09-08,2026-09-25,2026-09-24
+Relatório de indicadores de setembro,Consolidar números das áreas,Bruno Ferreira,Operações,Alta,Concluída,2026-10-01,2026-10-09,2026-10-08
+Atualizar cadastro de clientes,Corrigir dados duplicados,Rafael Lima,Comercial,Baixa,Concluída,2026-10-05,2026-10-16,2026-10-14
+Renovar licenças de software,Levantar licenças que vencem no mês,Carlos Mendes,TI,Alta,Em andamento,2026-09-15,2026-10-10,
+Fechamento da folha de pagamento,Validar horas extras e benefícios,Juliana Alves,RH,Alta,Pendente,2026-09-28,2026-10-14,
+Revisar política de reembolso,Alinhar regras com a diretoria,Marina Souza,Financeiro,Média,Em andamento,2026-09-20,2026-10-05,
+Planejar evento de relacionamento,Levantar local e orçamento,Patrícia Rocha,Marketing,Baixa,Pendente,2026-09-10,2026-10-02,
+Enviar proposta comercial ao cliente Alfa,Finalizar valores e prazos,Rafael Lima,Comercial,Alta,Em andamento,2026-10-12,2026-10-19,
+Atualizar manual de procedimentos,Incluir o novo fluxo de atendimento,Bruno Ferreira,Operações,Média,Pendente,2026-10-08,2026-10-20,
+Avaliação de desempenho semestral,Enviar formulários aos gestores,Juliana Alves,RH,Alta,Pendente,2026-10-10,2026-10-21,
+Implantar painel de monitoramento,Acompanhar disponibilidade dos sistemas,Carlos Mendes,TI,Alta,Em andamento,2026-10-05,2026-10-30,
+Planejar orçamento do próximo ano,Reunir previsões de cada setor,Marina Souza,Financeiro,Alta,Pendente,2026-10-12,2026-11-15,
+Criar conteúdo para redes sociais,Produzir textos e imagens da semana,Patrícia Rocha,Marketing,Média,Em andamento,2026-10-13,2026-10-28,
+Negociar renovação de contratos,Agendar reuniões com os clientes,Rafael Lima,Comercial,Média,Pendente,2026-10-14,2026-11-10,
+Padronizar checklist de entregas,Unificar modelos usados pelas equipes,Bruno Ferreira,Operações,Baixa,Pendente,2026-10-15,2026-11-20,
+Pesquisa de clima organizacional,Montar questionário e cronograma,Juliana Alves,RH,Baixa,Pendente,2026-10-16,2026-12-05,
+Revisar permissões de acesso,Remover acessos de ex-colaboradores,Carlos Mendes,TI,Média,Pendente,2026-10-16,2026-11-05,
