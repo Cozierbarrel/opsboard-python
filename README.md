@@ -135,18 +135,6 @@ pytest
 
 A suíte cobre percentual de conclusão, demandas atrasadas e com prazo próximo, indicadores com banco vazio, filtros por status e prioridade, validação de dados inválidos, operações de banco (CRUD, duplicatas, persistência e SQL injection), importação/exportação e a abertura de todas as páginas do app. Os testes usam uma **data fixa** (`18/10/2026`) e bancos temporários, por isso o resultado não depende do dia em que são executados nem toca no banco real.
 
-## Capturas de tela
-
-Adicione suas capturas na pasta `screenshots/` e atualize os caminhos abaixo.
-
-| Visão geral | Demandas |
-|---|---|
-| ![Visão geral](screenshots/visao-geral.png) | ![Demandas](screenshots/demandas.png) |
-
-| Alertas de prazo | Relatórios e dados |
-|---|---|
-| ![Alertas](screenshots/alertas.png) | ![Relatórios](screenshots/relatorios.png) |
-
 ## Decisões técnicas
 
 - **Funções puras em `analytics.py`:** recebem o DataFrame e a data de hoje; por isso são fáceis de testar.
@@ -176,4 +164,4 @@ Adicione suas capturas na pasta `screenshots/` e atualize os caminhos abaixo.
 
 ## Autor
 
-Seu nome · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+Caio Paixão · [LinkedIn](https://www.linkedin.com/in/caionpaix%C3%A3o) · [GitHub](https://github.com/Cozierbarrel)
